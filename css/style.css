@@ -271,12 +271,16 @@ footer h2{
     .card{
         display: block;
         height: 1000px;
+        margin: 0px;
+    }
 
+    html{
+        width: 300;
     }
 
     article img{
-        width: 600px;
-        height: 700px;
+        width: 270px;
+        height: 570px;
     }
 
     .card p {
@@ -317,6 +321,7 @@ footer h2{
     Footer{
         display: block;
         height: 800px;
+        width: 320px;
     }
 
     footer h1{
@@ -343,8 +348,9 @@ footer h2{
     }
 
     .local img{
-        width: 300px;
+        width: 265px;
         margin-left: 0px;
+        padding-right: 0px;
     }
         
 }
