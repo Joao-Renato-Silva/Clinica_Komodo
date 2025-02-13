@@ -302,7 +302,7 @@ footer h2{
     }
 
     .logo img{
-        width: 10px;
+        width: 50px;
     }
     .menu a{
         padding: 1%;
@@ -350,7 +350,7 @@ footer h2{
     .local img{
         width: 300px;
         margin-left: 0px;
-        padding-right: 0px;
+        padding-right: 10px;
     }
         
 }
