@@ -263,9 +263,93 @@ footer h2{
 
 }
 
-
-
 @media(min-width: 300px){
+    article{
+        height: 1600px;
+    }
+    
+    .card{
+        display: block;
+        height: 1000px;
+
+    }
+
+    article img{
+        width: 600px;
+        height: 700px;
+    }
+
+    .card p {
+        height: 60%;
+    }
+
+    span{
+        display: none;
+    } 
+
+    .card p:hover span {
+        transform: rotate(0);
+        display: none;
+      }
+
+    .logo{
+        margin-left: 0%;
+        flex: 1%;
+    }
+
+    .logo img{
+        width: 60px;
+    }
+    .menu a{
+        padding: 1%;
+        font-size: 7px;
+    }
+
+    .menu{
+        padding-left: 0px;
+    }
+
+    .contato{
+        margin-left: 0px;
+        font-size: 20px;
+    }
+
+    Footer{
+        display: block;
+        height: 800px;
+    }
+
+    footer h1{
+        padding: 20px;
+        margin-top: 300px;
+        }
+
+    .contatos{
+        margin-right: 10px;
+    }
+
+    .contatos a{
+        padding-left: 20px;
+    }
+
+    .local h1{
+        padding-top: 0px;
+        margin-top: 65px;
+    }
+
+    .local{
+            margin-left: 30px;
+            padding-left: 0px;
+    }
+
+    .local img{
+        width: 300px;
+        margin-left: 0px;
+    }
+        
+}
+
+@media(min-width: 425px){
     article{
         height: 1600px;
     }
