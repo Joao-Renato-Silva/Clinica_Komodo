@@ -265,7 +265,7 @@ footer h2{
 
 
 
-@media(min-width: 425px){
+@media(min-width: 300px){
     article{
         height: 1600px;
     }
