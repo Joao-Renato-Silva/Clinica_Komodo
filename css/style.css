@@ -294,11 +294,11 @@ footer h2{
 
     .logo{
         margin-left: 0%;
-        flex: 1%;
+        flex: 0.5%;
     }
 
     .logo img{
-        width: 30px;
+        width: 10px;
     }
     .menu a{
         padding: 1%;
